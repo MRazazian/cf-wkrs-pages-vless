@@ -24,4 +24,4 @@ cdn-all.xn--b6gac.eu.org
 cdn-b100.xn--b6gac.eu.org
 cdn.anycast.eu.org
 proxyip.multacom.fxxk.dedyn.io
-proxyip.vultr.fxxk.dedyn.i
+proxyip.vultr.fxxk.dedyn.io
