@@ -1,6 +1,5 @@
 workers.cloudflare.cyou
 cdn-seek-b090-2a5cee4bb04a.hk-cctv.com
-
 proxyip.fxxk.dedyn.io 
 IP落地区域: 美国 维护频率: 12小时/次
 proxyip.sg.fxxk.dedyn.io 
@@ -15,6 +14,14 @@ proxyip.oracle.fxxk.dedyn.io
 IP落地区域: 甲骨文 维护频率: 4小时/次
 proxyip.digitalocean.fxxk.dedyn.io 
 IP落地区域: 数码海 维护频率: 4小时/次
-
 bestproxy.onecf.eu.org
 ipdb.rr.nu
+23.162.136.169
+47.254.66.75
+proxyip.fxxk.dedyn.io
+cdn.xn--b6gac.eu.org
+cdn-all.xn--b6gac.eu.org
+cdn-b100.xn--b6gac.eu.org
+cdn.anycast.eu.org
+proxyip.multacom.fxxk.dedyn.io
+proxyip.vultr.fxxk.dedyn.i
